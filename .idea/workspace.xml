@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9cc2a2e2-1145-4f46-94b9-5c580b1a0e2f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WnOcUyQPfU0bOwaD9hIfYlsOsJ" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Angular</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="section&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/css" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/gardiomfood/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9cc2a2e2-1145-4f46-94b9-5c580b1a0e2f" name="Default Changelist" comment="" />
+      <created>1536658926949</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1536658926949</updated>
+      <workItem from="1536658930804" duration="109000" />
+      <workItem from="1536676990799" duration="1267000" />
+      <workItem from="1536679746522" duration="8916000" />
+      <workItem from="1536819491016" duration="2569000" />
+      <workItem from="1536851167688" duration="16948000" />
+      <workItem from="1537017336213" duration="13866000" />
+      <workItem from="1537043988314" duration="17000" />
+      <workItem from="1538034823351" duration="47039000" />
+      <workItem from="1538392270984" duration="1109000" />
+      <workItem from="1539813457814" duration="325000" />
+      <workItem from="1579781973315" duration="6689000" />
+      <workItem from="1579963731263" duration="2812000" />
+      <workItem from="1580040082046" duration="10251000" />
+      <workItem from="1580107794643" duration="6142000" />
+      <workItem from="1580132203849" duration="4870000" />
+      <workItem from="1580797118599" duration="10129000" />
+      <workItem from="1580905542453" duration="10240000" />
+      <workItem from="1580916531443" duration="521000" />
+      <workItem from="1580973508725" duration="4642000" />
+      <workItem from="1580993360722" duration="5629000" />
+      <workItem from="1581243692995" duration="731000" />
+      <workItem from="1581943170440" duration="686000" />
+      <workItem from="1582045665411" duration="150000" />
+      <workItem from="1582387074196" duration="296000" />
+      <workItem from="1583125129671" duration="78000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="661" y="357" width="654" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1579782250367">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="661" y="357" width="654" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053/1920.0.1366.768@67.27.1853.1053" timestamp="1579782250367" />
+    <state x="726" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580139744066">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="726" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1853.1053/1920.0.1366.768@67.27.1853.1053" timestamp="1580139744066" />
+    <state x="482" y="187" key="SettingsEditor" timestamp="1580800168201">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053/1920.0.1366.768@67.27.1853.1053" timestamp="1580800168201" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1581243702462">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053/1920.0.1366.768@67.27.1853.1053" timestamp="1581243702462" />
+    <state x="429" y="136" width="1118" height="832" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1580996975757">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="429" y="136" width="1118" height="832" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.1853.1053/1920.0.1366.768@67.27.1853.1053" timestamp="1580996975757" />
+  </component>
+</project>
